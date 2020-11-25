@@ -1,2 +1,2 @@
-# CodeCommit
-AWS CodeCommit Sample Repo
+# CodeBuild
+AWS CodeBuils Sample Repo
